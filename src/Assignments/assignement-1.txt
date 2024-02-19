@@ -1,0 +1,24 @@
+What is Emmet?
+--> Emmet provides shorthand syntax to create HTML and CSS. making easier and faster to create markup and styles.
+
+Difference between a Library and Framework?
+--> Library and Framework both are software components and use in software development, 
+library basically contains function, classes, . it is decide by us that how can we use it, follows a principal of you call us . Framework gives us a way to build an application it decide how the application structure will be and it follow we call you principal.
+
+What is CDN? Why do we use it?
+-->CDN content delivery network it is use to deliver web content world wide such as script, images, stylesheets.
+
+Why is React known as React?
+-->react is known as react because it react whenever the data changes and it automatically shows the changes on UI and name shows reactive nature of UI.When the state changes, React efficiently updates only the parts of the UI that are affected by those changes. This is achieved through a virtual DOM (Document Object Model) and a process called reconciliation, where React compares the current state with the previous one and determines the minimal set of changes needed to update the UI.
+
+What is crossorigin in script tag?
+-->crossorigin attribute is important when loading scripts from different origins to ensure compliance with CORS policies and avoid potential security issues.
+
+What is diference between React and ReactDOM
+-->It includes the fundamental functionality for building React components, managing component state, and handling the virtual DOM.
+-->The react-dom package is responsible for interacting with the DOM and rendering React components into the browser.
+
+What is difference between react.development.js and react.production.js files via CDN?
+
+-->It includes additional warnings and error messages with useful information to aid developers in identifying and fixing potential issues in their code.
+-->It does not include development-specific warnings and messages, resulting in smaller file size and improved runtime performance
